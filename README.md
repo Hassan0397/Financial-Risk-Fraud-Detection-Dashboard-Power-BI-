@@ -128,3 +128,21 @@ All measures formatted (Currency, %, Decimal) with consistent naming.
 - **Fraud Rate % = Fraud Transactions ÷ Total Transactions × 100**  
 - **Alert Resolution Rate % = Resolved Alerts ÷ Total Alerts × 100**
 
+---
+
+## 🛠 Tools Used
+- Microsoft Power BI Desktop  
+- Power Query  
+- DAX (Data Analysis Expressions)  
+- CSV Data Files  
+
+---
+
+## ✅ Outcome
+With this dashboard, executives can:
+- Monitor fraud trends over time  
+- Identify high-risk customers & regions  
+- Track financial losses from fraud  
+- Review open alerts & resolution rate  
+- Slice data by Year, Country, Channel, Segment  
+
