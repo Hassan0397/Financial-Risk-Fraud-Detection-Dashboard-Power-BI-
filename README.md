@@ -98,7 +98,7 @@ All measures formatted (Currency, %, Decimal) with consistent naming.
 
 ### 📸 Dashboard Screenshot  
 [Fraud Overview](https://github.com/Hassan0397/Financial-Risk-Fraud-Detection-Dashboard-Power-BI-/blob/main/Financial%20Risk%20%26%20Fraud%20Detection%20Overview.png)  
-*(Replace with your actual screenshot)*
+
 
 ### Dashboard Components
 - **Title:** Executive Overview — Financial Risk & Fraud Detection  
